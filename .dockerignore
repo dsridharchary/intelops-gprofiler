@@ -1,0 +1,6 @@
+/bin/
+/build/
+**/__pycache__
+**/*.pyc
+gprofiler/resources
+!gprofiler/resources/flamegraph/flamegraph_template.html
